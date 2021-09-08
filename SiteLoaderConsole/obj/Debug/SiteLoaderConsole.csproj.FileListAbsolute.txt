@@ -1,0 +1,26 @@
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderConsole.exe.config
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderConsole.exe
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderConsole.pdb
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderPack.dll
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderPack.pdb
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.csproj.CopyComplete
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.exe
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.pdb
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderConsole.exe.config
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderConsole.exe
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderConsole.pdb
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderPack.dll
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\HtmlAgilityPack.dll
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\SiteLoaderPack.pdb
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\HtmlAgilityPack.pdb
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\bin\Debug\HtmlAgilityPack.xml
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.csprojAssemblyReference.cache
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.csproj.CoreCompileInputs.cache
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.csproj.CopyComplete
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.exe
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderConsole\obj\Debug\SiteLoaderConsole.pdb

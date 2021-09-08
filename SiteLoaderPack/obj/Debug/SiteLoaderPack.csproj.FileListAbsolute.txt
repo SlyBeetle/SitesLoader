@@ -1,0 +1,20 @@
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\bin\Debug\SiteLoaderPack.dll
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\bin\Debug\SiteLoaderPack.pdb
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.csproj.CopyComplete
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.dll
+C:\Users\Andrew\source\repos\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.pdb
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\bin\Debug\SiteLoaderPack.dll
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\bin\Debug\SiteLoaderPack.pdb
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\bin\Debug\HtmlAgilityPack.dll
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\bin\Debug\HtmlAgilityPack.pdb
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\bin\Debug\HtmlAgilityPack.xml
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.csprojAssemblyReference.cache
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.csproj.CoreCompileInputs.cache
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.csproj.CopyComplete
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.dll
+F:\Andrei Palcheuski programs\EPAM .Net Lab 2018\SitesLoader\SiteLoaderPack\obj\Debug\SiteLoaderPack.pdb
